@@ -1,0 +1,87 @@
+title: Valor Form Colors (Yellow)
+description: Replaces the attack animation colors for Valor Form!
+assets:
+#PC ONLY
+- name: remastered\obj\P_EX100_BTLF.a.us/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Animations/-0.dds
+- name: remastered\obj\P_EX100_BTLF.a.us/-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Animations/-1.dds
+- name: remastered\obj\P_EX100_BTLF.a.us/-2.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Animations/-2.dds
+- name: remastered\obj\P_EX100_BTLF.a.us/-3.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Animations/-3.dds
+#
+- name: remastered\obj\P_EX100_NM_BTLF.a.us/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Animations/-0.dds
+- name: remastered\obj\P_EX100_NM_BTLF.a.us/-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Animations/-1.dds
+- name: remastered\obj\P_EX100_NM_BTLF.a.us/-2.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Animations/-2.dds
+- name: remastered\obj\P_EX100_NM_BTLF.a.us/-3.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Animations/-3.dds
+  #
+  - name: remastered\obj\P_EX100_XM_BTLF.a.us/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Animations/-0.dds
+- name: remastered\obj\P_EX100_XM_BTLF.a.us/-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Animations/-1.dds
+- name: remastered\obj\P_EX100_XM_BTLF.a.us/-2.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Animations/-2.dds
+- name: remastered\obj\P_EX100_XM_BTLF.a.us/-3.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Animations/-3.dds
+  #
+- name: remastered\obj\P_EX100_XM_BTLF.a.us/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Animations/-0.dds
+- name: remastered\obj\P_EX100_TR_BTLF.a.us/-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Animations/-1.dds
+- name: remastered\obj\P_EX100_TR_BTLF.a.us/-2.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Animations/-2.dds
+- name: remastered\obj\P_EX100_TR_BTLF.a.us/-3.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Animations/-3.dds
